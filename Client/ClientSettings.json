@@ -1,0 +1,40 @@
+{
+    "ApplicationName":"BBakery",
+    "ApplicationID":"",
+    "ApplicationOwner":"Decoded_Lua",
+
+    "DToken":"NzAxNzcyNDAxNzg4MTkwNzkw.Xp2WwA.SuhtV8nVa4Wp_cPpx6E-SxwNIQ0",
+    "RToken":"",
+
+    "Footer":"BristoAPI - 0.06",
+    "DefaultColor":"0x82ccdd",
+    "SucessColor":"0x26de81",
+    "ErrorColor":"0xfc5c65",
+    "ProcessingColor":"0xfd9644",
+    
+    "DefaultServerID":"",
+    "Prefix":"-",
+
+    "Database":{
+        "DataBaseURL":"",
+        "GroupID":"",
+        "HighestRankID":""
+    },
+
+    "UptimeSettings":{
+        "Locale": "Europe - Central",
+        "TimeZone": "GMT",
+        "Premium": true
+     },
+
+     "Permissions":{
+         "SHR":"694253349419221033",
+         "HR":""
+     },
+
+     "Channels":{
+         "GeneralLogs":"701756579015557160",
+         "SessionLogs":"690094811218182145",
+         "SuggestionsChannel":""
+     }
+}
